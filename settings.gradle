@@ -1,2 +1,4 @@
 rootProject.name = 'otus-java-professional'
+include 'HelloOtus'
+include 'hw01-gradle'
 
