@@ -1,4 +1,5 @@
-package ru.project.iakkov;
+package ru.iakkov.project;
+
 import com.google.common.base.Joiner;
 
 public class HelloOtus {
